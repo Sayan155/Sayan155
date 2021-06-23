@@ -8,3 +8,7 @@ Instagram : https://www.instagram.com/_onslayer_predator2/
 Linkedln : https://www.linkedin.com/in/sayan-b-5423801aa/
 
 Or email : snbhattacharya191@gmail.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayan155&theme=dark&show_icons=true)
+
+
