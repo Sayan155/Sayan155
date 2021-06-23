@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @Sayan155
-- 👀 I’m interested in Computer and Network Security
-- 🌱 I’m currently learning Btech ECE
--
-- 📫 How to reach me 
-My email: snbhattacharya191@gmail.com
+Hey there!
+I'm Sayan from India. I am a computer and Network Security enthusiast and love to learn new computer languages (high-low level). I also love coding (HTML, CSS, Turbo C++, Python and Java).
+Current;y I am pursuing my Btech in ECE from SVIST
+You can find me on Facebook : https://www.facebook.com/sayan.bhattacharya.39545/
 
-<!---
-Sayan155/Sayan155 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Instagram : https://www.instagram.com/_onslayer_predator2/
+
+Linkedln : https://www.linkedin.com/in/sayan-b-5423801aa/
+
+Or email : snbhattacharya191@gmail.com
