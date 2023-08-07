@@ -6,7 +6,7 @@ You can find me on Facebook : https://www.facebook.com/sayan.bhattacharya.39545/
 
 Instagram : https://www.instagram.com/_onslayer_predator2/
 
-Linkedln : https://www.linkedin.com/in/sayan-b-5423801aa/
+Linkedln : https://www.linkedin.com/in/thesayanbhattacharya
 
 Or email : snbhattacharya191@gmail.com
 
